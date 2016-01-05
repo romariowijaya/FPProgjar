@@ -1,0 +1,7 @@
+Referensi:
+
+https://www.nginx.com/resources/glossary/round-robin-load-balancing/
+
+http://www.slideshare.net/sondhicse/a-comparative-study-between-honeybee-foraging-behaviour-algorithm-and-round-robin-algorithm-for-load-balancing-in-cloud-environment
+
+https://technet.microsoft.com/en-us/library/bb734910.aspx
